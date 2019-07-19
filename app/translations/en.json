@@ -1,0 +1,7 @@
+{
+  "app.components.Grandien.header": "This is the Grandien component!",
+  "app.components.Scroll.header": "This is the Scroll component!",
+  "app.containers.HomePage.header": "This is the HomePage container!",
+  "app.containers.NotFoundPage.header": "This is the NotFoundPage container!",
+  "HomePage.Scroll": "Scroll"
+}

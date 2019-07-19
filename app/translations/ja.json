@@ -1,0 +1,7 @@
+{
+  "app.components.Grandien.header": "",
+  "app.components.Scroll.header": "",
+  "app.containers.HomePage.header": "",
+  "app.containers.NotFoundPage.header": "",
+  "HomePage.Scroll": "Scroll"
+}
